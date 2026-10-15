@@ -17,6 +17,8 @@
   <a href="https://docs.arcenpay.com">Documentation</a>
   &nbsp;·&nbsp;
   <a href="mailto:support@arcenpay.com">Contact our team</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/arcenpay">Telegram</a>
 </p>
 
 </div>

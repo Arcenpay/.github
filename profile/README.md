@@ -334,7 +334,7 @@ Developers can explore ArcenPay through our public repositories, SDKs, examples,
 and documentation:
 
 - [Documentation](https://docs.arcenpay.com)
-- [ArcenPay repositories](https://github.com/Arcenpay)
+- [ArcenPay repositories](https://github.com/Arcenpay-v1)
 - [React SDK (`@arcenpay/react`)](https://www.npmjs.com/package/@arcenpay/react)
 - [Node.js SDK (`@arcenpay/node`)](https://www.npmjs.com/package/@arcenpay/node)
 - [Agent SDK (`@arcenpay/agent`)](https://www.npmjs.com/package/@arcenpay/agent)
@@ -350,7 +350,7 @@ protected credentials, authenticated integrations, input validation, controlled
 access, and careful handling of payment and customer data.
 
 Please do not report security vulnerabilities in public issues. Read the
-[security policy](https://github.com/Arcenpay/Arcenpay/blob/main/SECURITY.md)
+[security policy](https://github.com/Arcenpay/Arcenpay-v1/blob/main/SECURITY.md)
 or contact [support@arcenpay.com](mailto:support@arcenpay.com).
 
 ## License
